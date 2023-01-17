@@ -14,7 +14,7 @@ body{
 
 .menu{
 
-    background-color: #000;
+    background-color: rgb(104, 14, 14);
     display: flex;
     justify-content: center;
     gap: 1.5rem;
